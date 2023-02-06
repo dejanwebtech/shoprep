@@ -1,6 +1,6 @@
 function App() {
     return (
-        <div className="grid-container">
+        <div className="grid-container test">
             <header>
                 <a href="/"> React Shoping cart</a>
             </header>
